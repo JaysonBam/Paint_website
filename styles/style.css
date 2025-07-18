@@ -1,0 +1,9 @@
+.page {
+    display: none;
+}
+.page.active {
+    display: block;
+}
+.offcanvas-start {
+    width: 250px;
+}
